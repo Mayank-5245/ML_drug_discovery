@@ -74,6 +74,12 @@ will be considered to be inactive. As for those values in between 1,000 and 10,0
   <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-CatBoost.png" width="250" />
 </p>
 
+## Statistical analysis
+
+### Mann-Whitney U Test
+All of the 4 Lipinski's descriptors exhibited statistically significant difference between the actives and inactives. (Files are stored in data folder)
+
+
 ## Conclusion
 - Performance of all machine learning models used is decent based on 10-fold cross validation of the dataset. `XGBoost` seems to providing the best performance.
 - `Neural Network` achieves a highest score in predicting both classes.
