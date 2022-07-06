@@ -55,24 +55,29 @@ will be considered to be inactive. As for those values in between 1,000 and 10,0
 ### Model Comparison
 
 <p float="left">
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/model-comparision.png" width="400" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-effectiveness.png" width="300" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-noneffectiveness.png" width="300" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/model-comparision.png" width="300" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-effectiveness.png" width="200" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-noneffectiveness.png" width="200" /> 
 </p>
 
 
 ### Confusion Matrix
 <p float="left">
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-kNN.png" width="333" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Logistic Regression.png" width="333" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Decision Tree.png" width="333" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Random Forest.png" width="333" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Gradient Boosting.png" width="333" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-SVM.png" width="333" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Neural Networks.png" width="333" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-XGBoost.png" width="333" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-CatBoost.png" width="333" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-kNN.png" width="233" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Logistic Regression.png" width="233" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Decision Tree.png" width="233" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Random Forest.png" width="233" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Gradient Boosting.png" width="233" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-SVM.png" width="233" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Neural Networks.png" width="233" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-XGBoost.png" width="233" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-CatBoost.png" width="233" />
 </p>
+
+## Conclusion
+- Performance of all machine learning models used is decent based on 10-fold cross validation of the dataset. `XGBoost` seems to providing the best performance.
+- `Neural Network` achieves a highest score in predicting both classes.
+- Feature selection suggests the `NumHDonors` and `NumHAcceptors` are the most crucial factor for the successful prediction of bioactivity of the drug.
 
 ## References
 1. [Wikipedia.org (Lipinski's rule of five)](https://en.wikipedia.org/wiki/Lipinski%27s_rule_of_five#:~:text=Lipinski's%20rule%20states%20that%2C%20in,all%20nitrogen%20or%20oxygen%20atoms))
