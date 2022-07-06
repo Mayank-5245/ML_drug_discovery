@@ -56,22 +56,22 @@ will be considered to be inactive. As for those values in between 1,000 and 10,0
 
 <p float="left">
   <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/model-comparision.png" width="300" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-effectiveness.png" width="200" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-noneffectiveness.png" width="200" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-effectiveness.png" width="250" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/drug-noneffectiveness.png" width="250" /> 
 </p>
 
 
 ### Confusion Matrix
 <p float="left">
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-kNN.png" width="233" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Logistic Regression.png" width="233" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Decision Tree.png" width="233" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Random Forest.png" width="233" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Gradient Boosting.png" width="233" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-SVM.png" width="233" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Neural Networks.png" width="233" />
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-XGBoost.png" width="233" /> 
-  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-CatBoost.png" width="233" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-kNN.png" width="250" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Logistic Regression.png" width="250" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Decision Tree.png" width="250" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Random Forest.png" width="250" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Gradient Boosting.png" width="250" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-SVM.png" width="250" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-Neural Networks.png" width="250" />
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-XGBoost.png" width="250" /> 
+  <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/confusion-matrix-CatBoost.png" width="250" />
 </p>
 
 ## Conclusion
