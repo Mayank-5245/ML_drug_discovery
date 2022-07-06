@@ -33,7 +33,7 @@ will be considered to be inactive. As for those values in between 1,000 and 10,0
 
 <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/Correlation.png" width="700">
 
-#### Class Distribution
+#### Class Distribution (** Please use light mode as some texts and legends are not clearly visible in dark mode)
 <img src="https://github.com/Mayank-5245/ML_drug_discovery/blob/master/images/Class-distribution.png">
 
 #### Boxplots
